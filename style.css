@@ -6,10 +6,20 @@ body {background-color: rgb(185, 160, 127);
     margin: auto;
 }
 
-div {background-color: rgb(189, 132, 184);
+.Ingredients {background-color: rgb(189, 132, 184);
      height: 400px;
     width: 500px;
-    padding: 10px;
+    padding: 5px;
 }
 
+.Directions {background-color: seashell;
+    height: 400px;
+    width: 500px;
+    padding: 5px;
+}
 
+.Notes {background-color: rgb(185, 138, 185);
+    height: 400px;
+    width: 500px;
+    padding: 5px;
+}
