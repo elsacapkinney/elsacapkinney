@@ -1,24 +1,25 @@
-h1, h2, h3 {color: rgb(54, 30, 27);}
+h1, h2, h3 {color: rgb(54, 30, 27);
+    font-family: 'Heebo', sans-serif;}
 
 body {background-color: rgb(185, 160, 127);
-    font-family: 'Heebo', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     color: rgb(97, 69, 48);
     margin: auto;
 }
 
-.Ingredients {background-color: rgb(189, 132, 184);
+#Ingredients {background-color: rgb(189, 132, 184);
      height: 400px;
     width: 500px;
     padding: 5px;
 }
 
-.Directions {background-color: seashell;
+#Directions {background-color: seashell;
     height: 400px;
     width: 500px;
     padding: 5px;
 }
 
-.Notes {background-color: rgb(185, 138, 185);
+#Notes {background-color: rgb(185, 138, 185);
     height: 400px;
     width: 500px;
     padding: 5px;
