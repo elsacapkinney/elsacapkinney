@@ -9,20 +9,20 @@ body {background-color: rgb(185, 160, 127);
     padding: 5px;
 }
 
-.Ingredients {background-color: rgb(189, 132, 184);
+.Ingredients {background-color: rgb(236, 143, 208);
      height: 400px;
-    width: 500px;
+    width: 300px;
     padding: 5px;
 }
 
 .Directions {background-color: seashell;
     height: 400px;
-    width: 500px;
+    width: 600px;
     padding: 5px;
 }
 
 .Notes {background-color: rgb(185, 138, 185);
     height: 400px;
-    width: 500px;
+    width: 300px;
     padding: 5px;
 }
