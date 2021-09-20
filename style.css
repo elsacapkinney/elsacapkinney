@@ -1,16 +1,10 @@
 body {background-color: rgb(185, 160, 127);
+    font-family: 'Heebo', sans-serif;
 }
 
-divI {background-color: rgb(189, 132, 184);
+div {background-color: rgb(189, 132, 184);
      height: 400px;
     width: 500px;
+    padding: 10px;
 }
 
-divD {background-color: lavender;
-height: 400px;
-width: 500px;
-}
-
-divN {background-color: snow;
-height: 400px;
-width: 500px;}
