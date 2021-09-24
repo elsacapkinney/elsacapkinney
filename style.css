@@ -15,13 +15,25 @@ body {background-color: rgb(185, 160, 127);
     font-family: 'Merriweather Sans', sans-serif;
     color: rgb(97, 69, 48);
     margin: auto;
+    margin-top: 50%;
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
     padding-top: 10px;
 }
 
-.Ingredients {background-color: rgb(236, 143, 208);
+.Footnote {background-color: rgb(245, 207, 213);
+    height: 100px;
+    width: 700px;
+    margin: 50px;
+    padding-left: 10px ;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 5px  rgb(97, 69, 48);
+}
+
+.Ingredients {background-color: seashell;
      height: 300px;
     width: 700px;
     margin: 20px;
@@ -30,9 +42,10 @@ body {background-color: rgb(185, 160, 127);
     padding-bottom: 10px;
     padding-top: 10px;
     border: 5px  rgb(97, 69, 48);
+    float: left;
 }
 
-.Directions {background-color: seashell;
+.Directions {background-color: rgb(245, 207, 213);;
     height: 400px;
     width: 700px;
     margin: 20px;
@@ -41,12 +54,13 @@ body {background-color: rgb(185, 160, 127);
     padding-bottom: 10px;
     padding-top: 10px;
     border: 5px  rgb(97, 69, 48);
+    float: left;
 }
 
-.Notes {background-color: rgb(185, 138, 185);
+.Notes {background-color: seashell;
     height: 300px;
     width: 700px;
-    margin: 20px;
+    margin: 50px;
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
