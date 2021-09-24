@@ -31,6 +31,7 @@ body {background-color: rgb(185, 160, 127);
     padding-bottom: 10px;
     padding-top: 10px;
     border: 5px  rgb(97, 69, 48);
+    float: left;
 }
 
 .Ingredients {background-color: seashell;
@@ -42,6 +43,7 @@ body {background-color: rgb(185, 160, 127);
     padding-bottom: 10px;
     padding-top: 10px;
     border: 5px  rgb(97, 69, 48);
+    float: left;
 }
 
 .Directions {background-color: rgb(245, 207, 213);;
@@ -53,6 +55,7 @@ body {background-color: rgb(185, 160, 127);
     padding-bottom: 10px;
     padding-top: 10px;
     border: 5px  rgb(97, 69, 48);
+    float: left;
 }
 
 .Notes {background-color: seashell;
@@ -64,4 +67,5 @@ body {background-color: rgb(185, 160, 127);
     padding-bottom: 10px;
     padding-top: 10px;
     border: 5px  rgb(97, 69, 48);
+    float: left;
 }
