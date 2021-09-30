@@ -16,51 +16,39 @@ body {background-color: rgb(185, 160, 127);
     color: rgb(97, 69, 48);
     margin: auto;
     margin-top: 30%;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding: 10px;
 }
 
 .Footnote {background-color: rgb(245, 207, 213);
     height: 100px;
     width: 700px;
     margin: 20px;
-    padding-left: 10px ;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding: 10px ;
     border: 5px  rgb(97, 69, 48);
     float: left;
 }
 
 .Ingredients {background-color: seashell;
      height: 300px;
-    width: 700px;
+    width: 80%;
     margin: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding: 10px;
     border: 5px  rgb(97, 69, 48);
     float: left;
 }
 
 .Directions {background-color: rgb(245, 207, 213);;
     height: 400px;
-    width: 700px;
+    width: 80%;
     margin: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding: 10px;
     border: 5px  rgb(97, 69, 48);
     float: left;
 }
 
 .Notes {background-color: seashell;
     height: 300px;
-    width: 700px;
+    width: 50%;
     margin: 20px;
     padding-left: 10px;
     padding-right: 10px;
