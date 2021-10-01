@@ -19,6 +19,10 @@ body {background-color: rgb(185, 160, 127);
     padding: 10px;
 }
 
+.img {border: blue;
+    float: right;
+}
+
 .Footnote {background-color: rgb(245, 207, 213);
     height: 100px;
     width: 700px;
