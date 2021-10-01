@@ -42,7 +42,7 @@ body {background-color: rgb(185, 160, 127);
 .Ingredients {background-color: seashell;
      height: 40%;
     width: 30%;
-    margin-left: 20px;
+    margin: 20px;
     padding: 10px;
     border-style: dotted;
     border-width: 10px;  
