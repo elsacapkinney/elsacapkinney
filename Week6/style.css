@@ -29,8 +29,8 @@ body {background-color: rgb(185, 160, 127);
 }
 
 .Footnote {background-color: rgb(245, 207, 213);
-    height: 100px;
-    width: 700px;
+    height: 150px;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
     padding: 10px ;
