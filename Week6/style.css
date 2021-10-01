@@ -29,7 +29,7 @@ body {background-color: rgb(185, 160, 127);
 }
 
 .Footnote {background-color: rgb(245, 207, 213);
-    height: 150px;
+    height: 20%;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
@@ -49,6 +49,7 @@ body {background-color: rgb(185, 160, 127);
     border-width: 10px;  
     border-color: rgb(97, 69, 48);
     float: left;
+    position: relative;
 }
 
 .Directions {background-color: rgb(245, 207, 213);;
