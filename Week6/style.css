@@ -2,6 +2,8 @@ h1, h2, h3 {color: rgb(54, 30, 27);
     font-family: 'Heebo', sans-serif;
 }
 
+h1, h2 {text-align: center;}
+
 h1 {position: fixed;
    top:0px;
    left: 0px;
@@ -38,7 +40,7 @@ body {background-color: rgb(185, 160, 127);
 }
 
 .Ingredients {background-color: seashell;
-     height: 30%;
+     height: 40%;
     width: 30%;
     margin: 20px;
     padding: 10px;
