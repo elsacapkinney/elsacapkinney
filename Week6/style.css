@@ -34,9 +34,9 @@ body {background-color: rgb(185, 160, 127);
     margin: 20px;
     padding: 10px ;
     border-style: solid;
-    border-width: 10px;  
+    border-width: 5px;  
     border-color: rgb(97, 69, 48);
-    float: center;
+    float: left;
 }
 
 .Ingredients {background-color: seashell;
@@ -51,7 +51,7 @@ body {background-color: rgb(185, 160, 127);
 }
 
 .Directions {background-color: rgb(245, 207, 213);;
-    height: 400px;
+    height: 35%;
     width: 50%;
     margin: 20px;
     padding: 10px;
