@@ -36,7 +36,7 @@ body {background-color: rgb(185, 160, 127);
     border-style: solid;
     border-width: 10px;  
     border-color: rgb(97, 69, 48);
-    float: left;
+    float: center;
 }
 
 .Ingredients {background-color: seashell;
