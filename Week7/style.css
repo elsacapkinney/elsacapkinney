@@ -1,0 +1,79 @@
+h1, h2, h3 {color: rgb(54, 30, 27);
+    font-family: 'Heebo', sans-serif;
+}
+
+h1, h2 {text-align: center;}
+
+h1 {position: fixed;
+   top:0px;
+   left: 0px;
+   padding: 10px;
+   margin: auto;
+   width: 100%;
+   background-color: seashell;
+}
+
+body {background-color: rgb(185, 160, 127);
+    font-family: 'Merriweather Sans', sans-serif;
+    color: rgb(97, 69, 48);
+    margin: auto;
+    margin-top: 30%;
+    padding: 10px;
+}
+
+.img {border-style: solid;
+    border-width: 10px;
+    border-color: rgb(97, 69, 48);
+}
+
+.center {display: block;
+         margin-left: auto;
+         margin-right: auto;
+         width: 50%;
+         }
+
+.Footnote {background-color: rgb(245, 207, 213);
+    height: 10%;
+    width: 50%;
+    margin-left: 20px;
+    padding: 10px ;
+    border-style: solid;
+    border-width: 5px;  
+    border-color: rgb(97, 69, 48);
+    float: left;
+}
+
+.Ingredients {background-color: seashell;
+     height: 40%;
+    width: 30%;
+    margin: 20px;
+    padding: 10px;
+    border-style: dotted;
+    border-width: 10px;  
+    border-color: rgb(97, 69, 48);
+    float: left;
+    position: relative;
+}
+
+.Directions {background-color: rgb(245, 207, 213);;
+    height: 35%;
+    width: 50%;
+    margin: 20px;
+    padding: 10px;
+    border-style: dotted;
+    border-width: 10px;  
+    border-color: rgb(97, 69, 48);
+    float: left;
+}
+
+.Notes {background-color: seashell;
+    height: 25%;
+    width: 30%;
+    margin: 20px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 5px;  
+    border-color: rgb(97, 69, 48);
+    float: left;
+    position: relative;
+}
