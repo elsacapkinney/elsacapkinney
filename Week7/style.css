@@ -56,8 +56,8 @@ body {background-color: rgb(185, 160, 127);
     border-style: dotted;
     border-width: 10px;  
     border-color: rgb(97, 69, 48);
-    float: left;
-    clear: right;
+    float: right;
+    position: relative;
 }
 
 .Directions {background-color: rgb(245, 207, 213);;
