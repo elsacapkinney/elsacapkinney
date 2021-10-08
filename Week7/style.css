@@ -52,7 +52,7 @@ body {background-color: rgb(185, 160, 127);
     border-width: 10px;  
     border-color: rgb(97, 69, 48);
     float: right;
-    position: relative;
+    position: absolute;
 }
 
 .Directions {background-color: rgb(245, 207, 213);;
