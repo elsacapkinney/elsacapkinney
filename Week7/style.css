@@ -70,7 +70,7 @@ body {background-color: rgb(185, 160, 127);
     border-width: 10px;  
     border-color: rgb(97, 69, 48);
     float: left;
-    position: relative;
+    clear: both;
 }
 
 .Notes {background-color: seashell;
