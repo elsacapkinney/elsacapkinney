@@ -17,7 +17,8 @@ body {background-color: rgb(185, 160, 127);
     font-family: 'Merriweather Sans', sans-serif;
     color: rgb(97, 69, 48);
     margin: auto;
-    margin-top: 30%;
+    margin-top: 20%;
+    margin-bottom: 10%;
     padding: 10px;
 }
 
@@ -69,11 +70,12 @@ body {background-color: rgb(185, 160, 127);
     border-width: 10px;  
     border-color: rgb(97, 69, 48);
     float: left;
+    position: relative;
 }
 
 .Notes {background-color: seashell;
     height: 25%;
-    width: 30%;
+    width: 50%;
     margin: 20px;
     padding: 10px;
     border-style: solid;
