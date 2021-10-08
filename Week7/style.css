@@ -31,7 +31,10 @@ body {background-color: rgb(185, 160, 127);
 }
 
 .Chimes {
-    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .Footnote {background-color: rgb(245, 207, 213);
@@ -53,8 +56,8 @@ body {background-color: rgb(185, 160, 127);
     border-style: dotted;
     border-width: 10px;  
     border-color: rgb(97, 69, 48);
+    float: left;
     clear: right;
-    position: relative;
 }
 
 .Directions {background-color: rgb(245, 207, 213);;
