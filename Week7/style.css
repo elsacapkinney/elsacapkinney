@@ -21,21 +21,20 @@ body {background-color: rgb(185, 160, 127);
     padding: 10px;
 }
 
-.img {border-style: solid;
+.img {margin: 20px;
+    border-style: solid;
     border-width: 10px;
     border-color: rgb(97, 69, 48);
 }
 
-.center {display: block;
-         margin-left: auto;
-         margin-right: auto;
-         width: 50%;
-         }
+.Chimes {
+    margin: 20px;
+}
 
 .Footnote {background-color: rgb(245, 207, 213);
     height: 10%;
     width: 50%;
-    margin-left: 20px;
+    margin: 20px;
     padding: 10px ;
     border-style: solid;
     border-width: 5px;  
@@ -52,7 +51,7 @@ body {background-color: rgb(185, 160, 127);
     border-width: 10px;  
     border-color: rgb(97, 69, 48);
     float: right;
-    position: absolute;
+    clear: both;
 }
 
 .Directions {background-color: rgb(245, 207, 213);;
