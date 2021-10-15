@@ -70,7 +70,6 @@ body {background-color: rgb(185, 160, 127);
     border-width: 5px;  
     border-color: rgb(97, 69, 48);
     float: left;
-    
 }
 
 .Notes {background-color: seashell;
@@ -82,7 +81,6 @@ body {background-color: rgb(185, 160, 127);
     border-width: 5px;  
     border-color: rgb(97, 69, 48);
     clear: both;
-    position: relative;
 }
 
 /*----------Media Querry----------*/
@@ -94,6 +92,12 @@ body {background-color: rgb(185, 160, 127);
 
 /*mobile*/
 @media only screen and (max-width: 500px) {
-    body {background-color: burlywood;}
+
+body {background-color: burlywood;
+          margin-top: 20%;
+}
+
+.Footnote, .Ingredients, .Directions, .Notes {width: 300px;
+                                              background-color: seashell;}
 
 }
