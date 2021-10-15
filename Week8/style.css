@@ -97,7 +97,21 @@ body {background-color: burlywood;
           margin-top: 20%;
 }
 
-.Footnote, .Ingredients, .Directions, .Notes {width: 300px;
-                                              background-color: seashell;}
+.Footnote {width: 300px;
+    background-color: seashell;
+}
+
+
+.Ingredients {width: 300px;
+    background-color: seashell;
+}
+
+.Directions {width: 300px;
+    background-color: seashell;
+}
+
+.Notes {width: 300px;
+    background-color: seashell;
+}
 
 }
