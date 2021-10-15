@@ -97,21 +97,28 @@ body {background-color: burlywood;
           margin-top: 20%;
 }
 
-.Footnote {width: 300px;
+h1 {background-color: rgb(245, 207, 213);
+}
+
+.Footnote {width: 400px;
     background-color: seashell;
+    float: left;
 }
 
 
-.Ingredients {width: 300px;
+.Ingredients {width: 400px;
     background-color: seashell;
+    float: left;
 }
 
-.Directions {width: 300px;
+.Directions {width: 400px;
     background-color: seashell;
+    float: left;
 }
 
-.Notes {width: 300px;
+.Notes {width: 400px;
     background-color: seashell;
+    float: left;
 }
 
 }
