@@ -23,7 +23,7 @@ body {background-color: rgb(185, 160, 127);
 }
 
 .Image {border-style: solid;
-    border-width: 10px;
+    border-width: 5px;
     border-color: rgb(97, 69, 48);
     display: block;
     margin-left: auto;
@@ -70,7 +70,7 @@ body {background-color: rgb(185, 160, 127);
     border-width: 5px;  
     border-color: rgb(97, 69, 48);
     float: left;
-    clear: both;
+    
 }
 
 .Notes {background-color: seashell;
