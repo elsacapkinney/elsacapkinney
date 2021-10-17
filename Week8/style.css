@@ -98,27 +98,32 @@ body {background-color: burlywood;
 }
 
 h1 {background-color: rgb(245, 207, 213);
+    font-style: oblique;
 }
 
 .Footnote {width: 400px;
     background-color: seashell;
     float: left;
+    margin: 50px
 }
 
 
 .Ingredients {width: 400px;
     background-color: seashell;
     float: left;
+    margin: 50px;
 }
 
 .Directions {width: 400px;
     background-color: seashell;
     float: left;
+    margin: 50px;
 }
 
 .Notes {width: 400px;
     background-color: seashell;
     float: left;
+    margin: 50px;
 }
 
 }
