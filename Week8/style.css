@@ -105,26 +105,26 @@ h1 {background-color: rgb(245, 207, 213);
 .Footnote {width: 400px;
     background-color: seashell;
     float: left;
-    margin: 50px
+    margin: 20px
 }
 
 
 .Ingredients {width: 400px;
     background-color: seashell;
     float: left;
-    margin: 50px;
+    margin: 20px;
 }
 
 .Directions {width: 400px;
     background-color: seashell;
     float: left;
-    margin: 50px;
+    margin: 20px;
 }
 
 .Notes {width: 400px;
     background-color: seashell;
     float: left;
-    margin: 50px;
+    margin: 20px;
 }
 
 }
